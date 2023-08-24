@@ -1,6 +1,6 @@
 # Todo List
 1. _Description:_
-   An interactive todo-list website created using functional components, hooks, fetch, routing.
+   An interactive to-do list website created using functional components, hooks, fetch, routing.
 2. _Technologies:_
    - HTML, CSS
    - Sass (SCSS)
